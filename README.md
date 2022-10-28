@@ -1,2 +1,2 @@
 # Ohto-Bot
-Simple, free, multi use bot for discord
+Bot de discord multi propósito sencillo y gratuito
